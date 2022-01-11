@@ -1,2 +1,2 @@
-# World_card_game
-Card election game with cardknox payment integrated based on Random selection
+# world-nation-cards
+MERN stack project with cardknox payment integrated for random cards
